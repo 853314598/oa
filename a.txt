@@ -1,0 +1,11 @@
+hello world
+qqqqqq
+oooooo
+ls -l 
+ls -lF
+ls -R
+rm -rf
+ps -ef
+ps -aux
+pwd
+111111
